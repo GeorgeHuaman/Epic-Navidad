@@ -16,10 +16,12 @@ MonoBehaviour:
   sku: 
   packageName: Salvar la Navidad - Epic
   thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
-  savedProjectSettings: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
   worldID: 
   scene: {fileID: 102900000, guid: 41e5f41bfa522a3428363f11c0ed9747, type: 3}
-  csharpAssembly: {fileID: 0}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 332894a94c3652446b79203ef8acf1e5,
+    type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
