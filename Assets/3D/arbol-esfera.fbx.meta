@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 3a42471ada4deaa4ca4e3b822d01b83d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Epic-identidad-editable_Mesa de trabajo 1-03
+    second: {fileID: 2800000, guid: 4d3cb7b52e901ae468072cb70f7c9348, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Base1_baseColor
+    second: {fileID: 2800000, guid: 61d7ce665226ea648b08df482b8c2f3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Base1_normal
+    second: {fileID: 2800000, guid: 36e6bd6477ab973499b1382580548903, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Body_baseColor
+    second: {fileID: 2800000, guid: 6a59fcde489e1194aa0daf87538d78a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Body_normal
+    second: {fileID: 2800000, guid: 42c09c4c9cb01db44a33e4691f6aa0fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Globe_baseColor
+    second: {fileID: 2800000, guid: 06ad579954d3ec347ac1110bfcaa559d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Globe_normal
+    second: {fileID: 2800000, guid: 858d463efa242b94b9472379491bf9c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Head_baseColor
+    second: {fileID: 2800000, guid: 5d3215be724498242808dc2b244e0c0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Head_normal
+    second: {fileID: 2800000, guid: aa5488fb3f69f1a499ea3b249f1faffd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Ladder_baseColor
+    second: {fileID: 2800000, guid: 7220bf85aa1e2db4fa0921156f463069, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Ladder_normal
+    second: {fileID: 2800000, guid: 4a78684f5db845d4487a0c8f8a5b15e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Legs_baseColor
+    second: {fileID: 2800000, guid: 45ce4fdad411ccc4fa946a675a140018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Legs_normal
+    second: {fileID: 2800000, guid: 9e81eb4dbf58df5428e564bc4c0c7264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Railing_baseColor
+    second: {fileID: 2800000, guid: 0ef93cc911a8b674cac7c188d0c4dbe8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Railing_normal
+    second: {fileID: 2800000, guid: aa519a0196a99ad43951ad01fb56f37f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Scarf_baseColor
+    second: {fileID: 2800000, guid: 3d8d8719dc19c1b4da2efaf712a7cf66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Scarf_normal
+    second: {fileID: 2800000, guid: 2e0165bf61d03884b8f507967a66f1ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Sled_baseColor
+    second: {fileID: 2800000, guid: 6f5cc6ae86675a44f9baa7aad1ef9ae0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Sled_normal
+    second: {fileID: 2800000, guid: 8cb480ad3e3f63e489a65b9fd3dbee7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SnowGlobe_Floor_baseColor
+    second: {fileID: 2800000, guid: 2d29c5bc16dcf6046a20ef02b3b09fde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SnowGlobe_Floor_normal
+    second: {fileID: 2800000, guid: 86aebe0b45a22a9439a5af14f2e6b3d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Snowballs_baseColor
+    second: {fileID: 2800000, guid: 45495ce9b2c1d844ba2f1226ec7e2afb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Snowballs_normal
+    second: {fileID: 2800000, guid: c9a659fbf00e5b149ab89c422242a889, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Sweets_baseColor
+    second: {fileID: 2800000, guid: 32b35b9a2eb6dab49b4093c3338c0932, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Sweets_normal
+    second: {fileID: 2800000, guid: 6bf234e8afdd021488c3738717c255ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Tree_baseColor
+    second: {fileID: 2800000, guid: 766b22120b350684cbc0a0b786f6e127, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Tree_normal
+    second: {fileID: 2800000, guid: f005511f8c5849e4a9baf511d284d5f4, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
