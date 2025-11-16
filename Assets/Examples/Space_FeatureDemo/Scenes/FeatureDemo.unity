@@ -99,7 +99,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: 3e6373a48d96443e891bb04d301a281d,
     type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 5ada3908579bc4034a4568a07eae3458,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: ec3b958573a515f418b4fea65c76bbb9,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -539,8 +539,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24533cd6da2394ed2bea6783b0af62c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 1
-  listenFor: 0
+  version: 2
+  listenFor: 1
   onEnterEvent:
     id: 0
     unityEventIsSynced: 0
@@ -8961,6 +8961,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactText: Raise the flag
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
   iconType: 0
   icon: {fileID: 0}
   interactiveRadius: 5
@@ -9756,8 +9760,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24533cd6da2394ed2bea6783b0af62c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 1
-  listenFor: 0
+  version: 2
+  listenFor: 1
   onEnterEvent:
     id: 0
     unityEventIsSynced: 0

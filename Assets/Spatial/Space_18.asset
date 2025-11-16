@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_1
+  m_Name: Space_18
   m_EditorClassIdentifier: 
   version: 1
-  sku: oy71es7n9vg1o3qzo3h0efxd
-  packageName: Salvar la Navidad - Lacross
+  sku: fd22ibs8fpay88d2h7aaqn8f
+  packageName: Salvar la Navidad - Guanajuato
   thumbnail: {fileID: 2800000, guid: f65049a0fc0a8d84ca9fc6b5da0165a0, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: gio9ft4y1v7juir5d0kph
+  worldID: 3xfi68l9v5ymg2rggpzk8
   scene: {fileID: 102900000, guid: 41e5f41bfa522a3428363f11c0ed9747, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 332894a94c3652446b79203ef8acf1e5,
     type: 3}
