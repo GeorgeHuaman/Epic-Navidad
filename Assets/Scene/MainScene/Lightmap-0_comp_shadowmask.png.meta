@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 122ae749b68981e4f8a41cbcd8de1215
+guid: 2e902c9176c6b1348918a7474f7a56f7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -114,10 +114,10 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 29
+    textureFormat: 53
     textureCompression: 1
     compressionQuality: 100
     crunchedCompression: 0
@@ -126,10 +126,10 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 53
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 100
     crunchedCompression: 0

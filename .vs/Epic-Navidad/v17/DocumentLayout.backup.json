@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Navidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|e:\\proyectos\\epic-navidad\\assets\\scripts\\snowfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|e:\\proyectos\\epic-navidad\\assets\\scripts\\videoplayerwithaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|solutionrelative:assets\\scripts\\videoplayerwithaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|E:\\Proyectos\\Epic-Navidad\\assets\\scripts\\videoinspatial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|solutionrelative:assets\\scripts\\videoinspatial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|E:\\Proyectos\\Epic-Navidad\\assets\\scripts\\snowfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|solutionrelative:assets\\scripts\\snowfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|e:\\proyectos\\epic-navidad\\assets\\scripts\\manualoclussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|E:\\Proyectos\\Epic-Navidad\\assets\\scripts\\manualoclussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD565DE-7BB1-D637-740D-F1CE6FCD2BF8}|NewAssembly.csproj|solutionrelative:assets\\scripts\\manualoclussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +31,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VideoPlayerWithAudio.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\VideoPlayerWithAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoPlayerWithAudio.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\VideoPlayerWithAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoPlayerWithAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:47:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoInSpatial.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\VideoInSpatial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoInSpatial.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\VideoInSpatial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoInSpatial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:45:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SnowFollowPlayer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\SnowFollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SnowFollowPlayer.cs",
@@ -30,12 +63,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SnowFollowPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:46:24.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:46:24.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ManualOclussion.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Navidad\\Assets\\Scripts\\ManualOclussion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManualOclussion.cs",
@@ -43,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ManualOclussion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:47:59.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:47:59.528Z"
             }
           ]
         }
