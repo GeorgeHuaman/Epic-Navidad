@@ -5,6 +5,76 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Epic-identidad-editable_Mesa de trabajo 1-03
+    second: {fileID: 2100000, guid: 2d94642d5a52af04cb522a0dbbb7de16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base1
+    second: {fileID: 2100000, guid: 194edf0e20a7fce48b2c8dd052681782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Body
+    second: {fileID: 2100000, guid: 07060b5cf54558c4d9d6b6149acab27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Globe
+    second: {fileID: 2100000, guid: 7fa5a7b7cc884f247bbca7513628ea59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Head
+    second: {fileID: 2100000, guid: 9f7386e5e5f3bb644ae0b7318f2ac48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ladder
+    second: {fileID: 2100000, guid: 5f41a3031c66ee644be2c06a707a22c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Legs
+    second: {fileID: 2100000, guid: 44ab5a46633d6914a938115c76772e93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Railing
+    second: {fileID: 2100000, guid: 6a311d2381e007e4fb4d8af732620860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Scarf
+    second: {fileID: 2100000, guid: e26f099de79525c488f6ad6d51306f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Sled
+    second: {fileID: 2100000, guid: 433daf5163b8ba14180ddfe60c5b83a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SnowGlobe_Floor
+    second: {fileID: 2100000, guid: 7bfc805ad147eb2418a44e421b250f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Snowballs
+    second: {fileID: 2100000, guid: 36982d6297f4e0d4a8795f50daa7bd88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Sweets
+    second: {fileID: 2100000, guid: f290ad6b98ef03846a21dc463d04ad32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tree
+    second: {fileID: 2100000, guid: fbf1f4805599d5f48a88299fa172e797, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Epic-identidad-editable_Mesa de trabajo 1-03
